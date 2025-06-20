@@ -1,0 +1,16 @@
+{
+    "modules": [
+        [
+            "Net Analyzer",
+            "net-analyzer",
+            "beta-1.0",
+            "Net Analyzer to scan servers"
+        ],
+        [
+            "Wifi Cracker",
+            "wifi-cracker",
+            "beta-1.0",
+            "Wifi Cracker to crack a network password"
+        ]
+    ]
+}

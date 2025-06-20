@@ -1,1 +1,20 @@
-
+{
+    "commands": [
+        [
+            "?",
+            "- Help menu"
+        ],
+        [
+            "clear, cls",
+            "- Clear the screen"
+        ],
+        [
+            "dir, ls",
+            "- List directory contents"
+        ],
+        [
+            "module, mdl",
+            "- To install the specified module"
+        ]
+    ]
+}
