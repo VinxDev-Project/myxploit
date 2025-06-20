@@ -215,7 +215,7 @@ def __myxploit_prompt(username):
                                             }, indent=4))
                                         elif prompt[2].lower() == anonymous.get_module(1):
                                             open(f"assets/modules/{prompt[2].lower()}/log.txt", "w").write("")
-                                        anonymous.downloadingScreen(f"{prompt[2].lower()} {anonymous.get_version_module(prompt[2].lower())}")
+                                        anonymous.downloadingScreen(f"{prompt[2].lower()} {anonymous.get_detail_module(prompt[2].lower())}")
                                         print()
                                 except IndexError:
                                     pass
